@@ -141,7 +141,14 @@ textarea { font-size: 16px;}
 .text-logo { font-family: 'Pacifico', cursive; font-size: 50px; text-shadow: 2px 2px 0 rgba(0,0,0,.10); margin: 0 auto 75px auto; display: none;}
 
 
+/*=============================================================================
+  ***************************************************************************
+  Basic
+  ***************************************************************************
+=============================================================================*/
 
+.basic-module {margin-bottom: 40px;}
+.basic-module p {background: none; color: #666; border: 2px solid #d25414; border-radius: 50px; padding: 10px 20px;}
 
 
 
