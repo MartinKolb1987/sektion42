@@ -302,7 +302,7 @@ input[type="submit"] { text-align: center; border-radius: 50px; background: #fff
 =============================================================================*/
 
 .team-module { width: 100%; margin: 0;}
-
+.team-module ul {padding-left: 0px; margin-top: 15px; list-style-type: none;}
 
 
 
