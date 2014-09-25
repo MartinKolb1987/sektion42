@@ -45,7 +45,7 @@ $(document).ready(function(){
 	    "use strict";
 
 	    // Date below denotes 23 April, 2015
-	    var launchDay = new Date(2015, 4-1, 23);
+	    var launchDay = new Date(2014, 11, 1);
 	    $('#ticker').countdown({
 	    	until: launchDay,
 	    	layout: '<div class="col-sm-6 col-md-3"><div class="counter-bg"><div class="counter-inner"><span class="count-digit">{dn}</span><span class="count-text">{dl}</span></div></div></div><div class="col-sm-6 col-md-3"><div class="counter-bg"><div class="counter-inner"><span class="count-digit">{hn}</span><span class="count-text">{hl}</span></div></div></div><div class="col-sm-6 col-md-3"><div class="counter-bg"><div class="counter-inner"><span class="count-digit">{mn}</span><span class="count-text">{ml}</span></div></div></div><div class="col-sm-6 col-md-3"><div class="counter-bg"><div class="counter-inner"><span class="count-digit">{sn}</span><span class="count-text">{sl}</span></div></div></div>'
