@@ -147,9 +147,7 @@ textarea { font-size: 16px;}
   ***************************************************************************
 =============================================================================*/
 
-.basic-module {margin-bottom: 40px;}
-.basic-module p {background: none; color: #666; border: 2px solid #d25414; border-radius: 50px; padding: 10px 20px;}
-
+.basic-module { margin-bottom: 40px;}
 
 
 /*=============================================================================
@@ -162,6 +160,21 @@ textarea { font-size: 16px;}
 .ie9 .mask { width: 126px; height: 126px; margin: 0 auto 20px auto; overflow: hidden; border-radius: 100%;}
 .about-icon { width: 126px; height: 126px; margin: 0 auto 20px auto; padding: 5px; border-radius: 100%;}
 .about-icon span { width: 100%; height: 100%; border: 2px solid #fff; color: #fff; border-radius: 100%; font-size: 40px; line-height: 112px;}
+
+
+
+/*=============================================================================
+  ***************************************************************************
+  Vision
+  ***************************************************************************
+=============================================================================*/
+
+.vision-module { margin-bottom: 20px;}
+.vision-module.bottom-text {margin-top: 40px;}
+.vision-icon {float: left;}
+.vision-icon span { width: 100%; height: 100%; color: #fff; font-size: 25px; margin-right: 15px;}
+.vision-text {float: left;}
+
 
 /*=============================================================================
   ***************************************************************************
