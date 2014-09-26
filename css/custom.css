@@ -148,7 +148,8 @@ textarea { font-size: 16px;}
 =============================================================================*/
 
 .basic-module { margin-bottom: 40px;}
-
+.basic-img { margin-bottom: 10px; font-size: 40px;}
+.basic-text p { padding: 0 10px;}
 
 /*=============================================================================
   ***************************************************************************
@@ -173,7 +174,7 @@ textarea { font-size: 16px;}
 .vision-module.bottom-text {margin-top: 40px;}
 .vision-icon {float: left;}
 .vision-icon span { width: 100%; height: 100%; color: #fff; font-size: 25px; margin-right: 15px;}
-.vision-text {float: left;}
+.vision-text {float: left; width: 80%;}
 
 
 /*=============================================================================
