@@ -7,43 +7,6 @@ Author URI: http://paulallen.me.uk
 Version: 1.0
 */
 
-
-
-
-
-/*=============================================================================
-  ***************************************************************************
-  
-  Table of contents
-
-  1. Global - Lines 48 - 90
-
-  2. Typography - Lines 91 - 118
-
-  3. Header - Lines 119 - 134
-
-  4. About - Lines 135 - 150 & 277 - 289
-
-  5. Countdown - Lines 151 - 167
-
-  6. Meet The Team - Lines 168 - 182 & 290 - 302
-
-  7. Get Notified - Lines 183 - 197
-
-  8. Footer - Lines 198 - 215 & 240 252
-
-  ***************************************************************************
-=============================================================================*/
-
-
-
-
-
-
-
-
-
-
 /*=============================================================================
   ***************************************************************************
   Global
@@ -103,7 +66,8 @@ h1,h2,h3,h4,h5,h6 { font-weight: 300;}
 a { outline: none; color: #fff;}
 a:hover, 
 a:active, 
-a:focus { text-decoration: none; outline: none;}
+a:focus { text-decoration: none; outline: none; color: #d25414;}
+.background-colour a:focus { color: #ffffff;}
 
 input,
 textarea { font-size: 16px;}
@@ -272,6 +236,7 @@ input[type="submit"] { text-align: center; border-radius: 50px; background: #fff
   ***************************************************************************
 =============================================================================*/
 
+.footer-nav {margin-bottom: 30px;}
 .footer-nav a { width: auto; margin: 0 10px;}
 
 

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74739816-4e4e-4009-a26b-3145f36ec624" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Basti\Documents\GitHub\sektion42\images\Logo_Startup42_Wimpel.svg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -30,10 +31,10 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-28.76923" vertical-offset="7786" max-vertical-offset="11594">
-              <caret line="502" column="65" selection-start-line="502" selection-start-column="65" selection-end-line="502" selection-end-column="65" />
+            <state vertical-scroll-proportion="-9.807693" vertical-offset="6766" max-vertical-offset="11815">
+              <caret line="413" column="115" selection-start-line="413" selection-start-column="115" selection-end-line="413" selection-end-column="115" />
               <folding>
-                <marker date="1411729583636" expanded="true" signature="1345:1350" placeholder="..." />
+                <marker date="1411731233985" expanded="true" signature="1345:1350" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -102,8 +103,18 @@
       <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51157665" vertical-offset="2987" max-vertical-offset="6018">
-              <caret line="203" column="71" selection-start-line="203" selection-start-column="71" selection-end-line="203" selection-end-column="71" />
+            <state vertical-scroll-proportion="0.7155859" vertical-offset="493" max-vertical-offset="5423">
+              <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wimpel.svg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/wimpel.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -125,10 +136,10 @@
         <option value="$PROJECT_DIR$/css/libs/font-awesome.min.css" />
         <option value="$PROJECT_DIR$/images/logo.svg" />
         <option value="$PROJECT_DIR$/images/lisa.svg" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/images/martin.svg" />
         <option value="$PROJECT_DIR$/images/basti.svg" />
         <option value="$PROJECT_DIR$/images/questionmark.svg" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
@@ -347,7 +358,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="3352" max-vertical-offset="11407">
           <caret line="221" column="92" selection-start-line="221" selection-start-column="92" selection-end-line="221" selection-end-column="92" />
           <folding>
-            <marker date="1411729583636" expanded="true" signature="1345:1350" placeholder="..." />
+            <marker date="1411731233985" expanded="true" signature="1345:1350" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -365,7 +376,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2383" max-vertical-offset="10642">
           <caret line="177" column="70" selection-start-line="177" selection-start-column="70" selection-end-line="177" selection-end-column="70" />
           <folding>
-            <marker date="1411729583636" expanded="true" signature="1345:1350" placeholder="..." />
+            <marker date="1411731233985" expanded="true" signature="1345:1350" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -459,20 +470,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/wimpel.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-28.76923" vertical-offset="7786" max-vertical-offset="11594">
-          <caret line="502" column="65" selection-start-line="502" selection-start-column="65" selection-end-line="502" selection-end-column="65" />
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="6766" max-vertical-offset="11815">
+          <caret line="413" column="115" selection-start-line="413" selection-start-column="115" selection-end-line="413" selection-end-column="115" />
           <folding>
-            <marker date="1411729583636" expanded="true" signature="1345:1350" placeholder="..." />
+            <marker date="1411731233985" expanded="true" signature="1345:1350" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51157665" vertical-offset="2987" max-vertical-offset="6018">
-          <caret line="203" column="71" selection-start-line="203" selection-start-column="71" selection-end-line="203" selection-end-column="71" />
+        <state vertical-scroll-proportion="0.7155859" vertical-offset="493" max-vertical-offset="5423">
+          <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
           <folding />
         </state>
       </provider>
