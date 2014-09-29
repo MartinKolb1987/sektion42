@@ -59,7 +59,7 @@ button:focus { outline: none;}
 
 html,body,input { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: 'Lato', sans-serif; color: #666;}
 
-html,body { overflow-x: hidden;}
+html,body { overflow-x: hidden; padding:0;}
 
 h1,h2,h3,h4,h5,h6 { font-weight: 300;}
 
