@@ -47,7 +47,12 @@ if($lang == 'en'){
     <body>
     <!--<![endif]-->
 
-
+        <div id="lang">
+            <ul>
+                <li><b>DE</b></li>
+                <li><a href="./en.html">EN</a></li>
+            </ul>
+        </div>
         <div class="page-wrap">
 
 
