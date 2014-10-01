@@ -1,3 +1,12 @@
+<?php
+$lang = '';
+$lang = $_SERVER['HTTP_ACCEPT_LANGUAGE'];
+$lang = substr(strtolower($lang),0,2);
+if($lang == 'en'){
+    header('Location: http://startup42.de/en.html', 300);
+    die();
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
