@@ -110,6 +110,7 @@ textarea { font-size: 16px;}
 .intro-inner { height: 100%; display: table-cell; vertical-align: middle;}
 .logo img { width: 40%; display: block; margin: 0 auto 75px auto;}
 .text-logo { font-family: 'Pacifico', cursive; font-size: 50px; text-shadow: 2px 2px 0 rgba(0,0,0,.10); margin: 0 auto 75px auto; display: none;}
+.team-module ul {list-style: none; padding: 0;}
 @media (max-width: 500px) {
     .logo img{ width: 70%;}
     #lang {display: none;}
