@@ -137,7 +137,7 @@ if($lang == 'en'){
                                 </div>
                                 <div class="basic-text">
                                     <p>
-                                        Zahlreiche Projekte (Apps/WebApps) zeigten uns den Umgang mit komplexen Problemlösungen. Wir legen Wert auf zwischenmenschliches, Motivation, Kommunikation und natürlich sehr viel Spaß!
+                                        Zahlreiche Projekte (Apps/WebApps) zeigten uns den Umgang mit komplexen Problemlösungen. Wir legen Wert auf zwischenmenschliche Kommunikation, Motivation, stetiges Lernen und natürlich sehr viel Spaß!
                                     </p>
                                 </div>
                             </div><!-- basic-module end -->
@@ -250,7 +250,8 @@ if($lang == 'en'){
                         <div class="col-sm-6 col-md-8 col-md-push-2">
                             <div class="vision-module text-center wow bounceInUp bottom-text">
                                 <p>
-                                    <h2>Hier kommst DU ins Spiel!</h2><br>
+                                    <h2>Hier kommst DU ins Spiel!</h2>
+                                    <img src="images/infografik-weiß.svg" alt="Workflow"><br>
                                     <b>Du hast eine Idee zur Weltherrschaft?</b> Dir fehlt das nötige technische Know-how und Erfahrung mit großen Projekten?<br>
                                     Wir hören uns deine Idee an und evaluieren mit dir, ob sich diese im Rahmen unserer Möglichkeiten als gemeinsames Startup realisieren lässt.<br><br>
                                     Achja, damit wir nicht aneinander vorbeireden... wir bauen keine Motoren oder Häuser, wir entwickeln Apps/Web-Applikationen. Diese laufen auf jedem Smartphone, einem klassischen Desktoprechner oder auf Laptops/Netbooks/Transformer-Books/... oder vielleicht sogar auf deinem Kühlschrank.
