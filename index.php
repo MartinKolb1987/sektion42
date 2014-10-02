@@ -341,12 +341,12 @@ if($lang == 'en'){
                             <div class="about-module text-center wow pulse">
                                 <div class="mask">
                                     <div class="about-icon">
-                                        <span class="fa fa-group"></span>
+                                        <span class="fa fa-line-chart"></span>
                                     </div><!-- about-icon end -->
                                 </div><!-- mask end -->
-                                <h4>COACHING</h4>
+                                <h4>ZIELSETZUNG</h4>
                                 <p>
-                                    Wir holen uns wenn es nötig ist auch Hilfe von externen Organisationen.
+                                    Weil ausreichend für uns nicht mal ansatzweise gut genug ist.
                                 </p>
                             </div><!-- about-module end -->
                         </div><!-- col end -->
@@ -354,12 +354,12 @@ if($lang == 'en'){
                             <div class="about-module text-center wow pulse">
                                 <div class="mask">
                                     <div class="about-icon">
-                                        <span class="fa fa-line-chart"></span>
+                                        <span class="fa fa-group"></span>
                                     </div><!-- about-icon end -->
                                 </div><!-- mask end -->
-                                <h4>ZIELSETZUNG</h4>
+                                <h4>COACHING</h4>
                                 <p>
-                                    Weil ausreichend für uns nicht mal ansatzweise gut genug ist.
+                                    Wir holen uns wenn es nötig ist auch Hilfe von externen Organisationen.
                                 </p>
                             </div><!-- about-module end -->
                         </div><!-- col end -->
