@@ -50,6 +50,7 @@ button:focus { outline: none;}
   right: 15px;
   top: 25px;
   display: inline-block;
+  z-index: 998;
 }
 #lang ul{ list-style: none;}
 #lang ul li{ float: left; padding: 10px; color: #fff;}
