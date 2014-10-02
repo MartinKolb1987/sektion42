@@ -4,7 +4,7 @@
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="332.571px" height="49.115px" viewBox="0 0 332.571 49.115" enable-background="new 0 0 332.571 49.115"
 	 xml:space="preserve">
-<rect x="-75.189" y="-80.844" display="none" fill="#808080" stroke="#000000" stroke-miterlimit="10" width="549" height="254"/>
+<rect x="-52.689" y="-48.344" display="none" fill="#808080" width="418" height="158"/>
 <g>
 	<path fill="#FFFFFF" d="M4.684,49.02c-0.099,0-0.156-0.053-0.172-0.156l-0.061-0.942c-0.264,0.36-0.574,0.646-0.928,0.858
 		c-0.354,0.212-0.752,0.318-1.192,0.318c-0.733,0-1.305-0.254-1.715-0.763C0.205,47.827,0,47.064,0,46.049
@@ -191,24 +191,24 @@
 	<g>
 		<g>
 			<g>
-				<path fill="#FFFFFF" d="M28.845,0c-5.034,0-9.118,4.083-9.118,9.118s4.083,9.118,9.118,9.118c5.034,0,9.118-4.083,9.118-9.118
-					C37.962,4.066,33.878,0,28.845,0z"/>
+				<path fill="#FFFFFF" d="M26.845,0c-5.034,0-9.118,4.083-9.118,9.118s4.083,9.118,9.118,9.118c5.034,0,9.118-4.083,9.118-9.118
+					C35.962,4.066,31.878,0,26.845,0z"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<circle fill="#FFFFFF" cx="33.932" cy="20.682" r="1.989"/>
+			<circle fill="#FFFFFF" cx="31.932" cy="20.682" r="1.989"/>
 		</g>
 	</g>
 	<g>
 		<g>
-			<circle fill="#FFFFFF" cx="34.336" cy="25.963" r="1.461"/>
+			<circle fill="#FFFFFF" cx="32.336" cy="25.963" r="1.461"/>
 		</g>
 	</g>
 	<g>
 		<g>
-			<circle fill="#FFFFFF" cx="32.189" cy="30.38" r="1.056"/>
+			<circle fill="#FFFFFF" cx="30.189" cy="30.38" r="1.056"/>
 		</g>
 	</g>
 </g>
@@ -251,27 +251,17 @@
 </g>
 <g>
 	<g>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x1="74.478" y1="46.02" x2="74.478" y2="46.02"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.987" x1="77.464" y1="46.02" x2="105.841" y2="46.02"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x1="107.334" y1="46.02" x2="107.334" y2="46.02"/>
+		<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="72.407" y1="46.322" x2="103.235" y2="46.322"/>
 		<g>
-			<polygon fill="#FFFFFF" points="105.343,47.715 107.04,46.02 105.343,44.324 106.783,44.324 108.478,46.02 106.783,47.715 			"/>
+			<polygon fill="#FFFFFF" points="106.907,46.322 101.733,48.438 102.96,46.322 101.733,44.209 			"/>
 		</g>
 	</g>
 </g>
 <g>
 	<g>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x1="205.478" y1="46.02" x2="205.478" y2="46.02"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.987" x1="208.464" y1="46.02" x2="236.841" y2="46.02"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x1="238.334" y1="46.02" x2="238.334" y2="46.02"/>
+		<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="201.573" y1="46.322" x2="232.401" y2="46.322"/>
 		<g>
-			<polygon fill="#FFFFFF" points="236.343,47.715 238.04,46.02 236.343,44.324 237.783,44.324 239.478,46.02 237.783,47.715 			"/>
+			<polygon fill="#FFFFFF" points="236.073,46.322 230.899,48.438 232.126,46.322 230.899,44.209 			"/>
 		</g>
 	</g>
 </g>

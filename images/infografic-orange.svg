@@ -151,24 +151,24 @@
 	<g>
 		<g>
 			<g>
-				<path fill="#D35418" d="M24.235,0c-5.034,0-9.118,4.083-9.118,9.118s4.083,9.118,9.118,9.118s9.118-4.083,9.118-9.118
-					C33.353,4.066,29.269,0,24.235,0z"/>
+				<path fill="#D35418" d="M25.235,0c-5.034,0-9.118,4.083-9.118,9.118s4.083,9.118,9.118,9.118s9.118-4.083,9.118-9.118
+					C34.353,4.066,30.269,0,25.235,0z"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<circle fill="#D35418" cx="29.322" cy="20.682" r="1.989"/>
+			<circle fill="#D35418" cx="30.322" cy="20.682" r="1.989"/>
 		</g>
 	</g>
 	<g>
 		<g>
-			<circle fill="#D35418" cx="29.727" cy="25.962" r="1.461"/>
+			<circle fill="#D35418" cx="30.727" cy="25.962" r="1.461"/>
 		</g>
 	</g>
 	<g>
 		<g>
-			<circle fill="#D35418" cx="27.579" cy="30.38" r="1.056"/>
+			<circle fill="#D35418" cx="28.579" cy="30.38" r="1.056"/>
 		</g>
 	</g>
 </g>
@@ -211,29 +211,17 @@
 </g>
 <g>
 	<g>
-		
-			<line fill="none" stroke="#D35418" stroke-linecap="round" stroke-linejoin="round" x1="74.868" y1="46.019" x2="74.868" y2="46.019"/>
-		
-			<line fill="none" stroke="#D35418" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.987" x1="77.855" y1="46.019" x2="106.231" y2="46.019"/>
-		
-			<line fill="none" stroke="#D35418" stroke-linecap="round" stroke-linejoin="round" x1="107.725" y1="46.019" x2="107.725" y2="46.019"/>
+		<line fill="none" stroke="#D35418" stroke-miterlimit="10" x1="74.368" y1="46.019" x2="105.196" y2="46.019"/>
 		<g>
-			<polygon fill="#D35418" points="105.733,47.714 107.43,46.019 105.733,44.323 107.173,44.323 108.868,46.019 107.173,47.714 			
-				"/>
+			<polygon fill="#D35418" points="108.868,46.019 103.694,48.134 104.922,46.019 103.694,43.905 			"/>
 		</g>
 	</g>
 </g>
 <g>
 	<g>
-		
-			<line fill="none" stroke="#D35418" stroke-linecap="round" stroke-linejoin="round" x1="205.868" y1="46.019" x2="205.868" y2="46.019"/>
-		
-			<line fill="none" stroke="#D35418" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.987" x1="208.855" y1="46.019" x2="237.231" y2="46.019"/>
-		
-			<line fill="none" stroke="#D35418" stroke-linecap="round" stroke-linejoin="round" x1="238.725" y1="46.019" x2="238.725" y2="46.019"/>
+		<line fill="none" stroke="#D35418" stroke-miterlimit="10" x1="203.534" y1="46.019" x2="234.362" y2="46.019"/>
 		<g>
-			<polygon fill="#D35418" points="236.733,47.714 238.43,46.019 236.733,44.323 238.173,44.323 239.868,46.019 238.173,47.714 			
-				"/>
+			<polygon fill="#D35418" points="238.034,46.019 232.86,48.134 234.088,46.019 232.86,43.905 			"/>
 		</g>
 	</g>
 </g>
