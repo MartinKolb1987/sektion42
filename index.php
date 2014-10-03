@@ -87,7 +87,7 @@ if($lang == 'en'){
                                         </h1>
                                         <h3>
                                             Wir wollen gemeinsam ein Startup gründen.<br>
-                                            Unser Arbeitseinsatz ist <u>kostenlos.</u>
+                                            Unser Arbeitseinsatz ist <u>kostenlos!</u>
                                         </h3>
                                         <a data-scroll href="#basics" class="button btn-flat-white">Ein paar Infos über uns gefällig? Gerne!</a>
                                     </div><!-- intro-inner end -->
@@ -557,8 +557,7 @@ if($lang == 'en'){
                                 <header class="section-header text-center wow bounceInDown">
                                     <h2>Persönlich ist einfach besser!</h2>
                                     <p>
-                                        Du hast eine Idee, eine Frage oder willst einfach nur deinen
-                                        Senf loswerden?<br>Schicke uns deine E-Mail – wir melden uns bei dir!
+                                        Schicke uns deine E-Mail-Adresse – wir melden uns bei dir!
                                     </p>
                                 </header>
                             </div><!-- col end -->
@@ -568,7 +567,7 @@ if($lang == 'en'){
                             <form id="mc-form" class="mc-form clearfix wow bounceInUp">
                                 <div class="col-md-8 col-md-push-2">
                                     <div class="col-sm-8">
-                                        <input id="mc-email" type="email" autocomplete="off" placeholder="Deine E-Mail...">
+                                        <input id="mc-email" type="email" autocomplete="off" placeholder="Deine E-Mail-Adresse...">
                                     </div><!-- col end -->
                                     <div class="col-sm-4">
                                         <input id="mc-submit" type="submit" value="Und los!">
