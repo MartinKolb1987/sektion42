@@ -81,10 +81,11 @@ if($lang == 'en'){
                                             startup42
                                         </div><!-- text-logo end -->
                                         <h1>
-                                            Deine Idee. <span class="bold">Dein Team.</span>
+                                            Deine Idee. Dein Team. <span class="bold">Unser Startup.</span>
                                         </h1>
                                         <h3>
-                                            Wir sind bereit mit dir deine Idee umzusetzen.
+                                            Wir wollen basierend auf deiner Idee gemeinsam mit dir ein funktionierendes Startup gründen.<br>
+                                            Unser Arbeitsansatz ist dabei <span class="bold">kostenlos.</span>
                                         </h3>
                                         <a data-scroll href="#basics" class="button btn-flat-white">Ein paar Infos über uns gefällig? Gerne!</a>
                                     </div><!-- intro-inner end -->
