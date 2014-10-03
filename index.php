@@ -237,8 +237,8 @@ if($lang == 'en'){
                     </div><!-- row end -->
 
                     <div class="row">
-                        <div class="col-sm-6 col-md-2 col-md-push-5">
-                            <div class="vision-module text-left wow bounceInUp bottom-text">
+                        <div class="vision-center">
+                            <div class="vision-module wow bounceInUp bottom-text">
                                 <div class="arrow-down text-center">
                                     <span class="fa fa-angle-double-down"></span>
                                 </div><!-- vision-icon end -->
@@ -247,7 +247,7 @@ if($lang == 'en'){
                     </div><!-- row end -->
 
                     <div class="row">
-                        <div class="col-sm-6 col-md-8 col-md-push-2">
+                        <div class="vision-center">
                             <div class="vision-module text-center wow bounceInUp bottom-text">
                                 <p>
                                     <h2>Hier kommst DU ins Spiel!</h2>
