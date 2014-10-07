@@ -557,7 +557,7 @@ if($lang == 'en'){
                                 <header class="section-header text-center wow bounceInDown">
                                     <h2>Persönlich ist einfach besser!</h2>
                                     <p>
-                                        Schicke uns deine E-Mail-Adresse – wir melden uns bei dir!
+                                        Schicke uns deine E-Mail-Adresse über das Formular oder<br>schreibe uns direkt an <a href="mailto:hallo@startup42.de?subject=Kontaktanfrage - startup42.de"><b>hallo@startup42.de</b></a> – wir melden uns bei dir!
                                     </p>
                                 </header>
                             </div><!-- col end -->
